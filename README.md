@@ -11,10 +11,6 @@ I'm a second year bachelor student.<br>Here are my school projet.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fywax&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fywax&icon=6&color=0)](https://visitcount.itsvg.in)
 
