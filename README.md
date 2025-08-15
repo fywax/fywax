@@ -19,4 +19,3 @@ I'm a second year bachelor student.<br>Here are my school projet.
 [![](https://visitcount.itsvg.in/api?id=fywax&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/fywax/fywax/blob/output/github-snake.svg)
